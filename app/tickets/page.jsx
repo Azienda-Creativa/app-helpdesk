@@ -1,3 +1,4 @@
+import React from "react"
 import Loading from "../loading"
 import TicketList from "./TicketList"
 import { Suspense } from "react"
