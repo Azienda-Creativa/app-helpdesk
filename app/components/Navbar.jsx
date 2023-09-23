@@ -14,7 +14,7 @@ export default function Navbar() {
       />
       <Link href={"/"}>Dashboard</Link>
       <Link href={"/tickets"}>Tickets</Link>
-      <Link href={"/tickets/create"}> New Ticket</Link>
+      <Link href={"/tickets/create"}></Link>
     </nav>
   )
 }
